@@ -1,2 +1,1 @@
-This is a challenge file.
-this is another line.
+This is a challenge file
